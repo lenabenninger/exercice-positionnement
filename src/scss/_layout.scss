@@ -25,6 +25,8 @@ h1 {
     padding-bottom: 2rem;
     padding-top: 2rem;
     background-color: $white;
+    position: sticky;
+    top: 4rem;
 
     h2 {
       @include title-h2;
